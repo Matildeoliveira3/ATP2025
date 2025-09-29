@@ -1,0 +1,58 @@
+import random
+soma = 21
+print("Bem vindo ao jogo dos fósforos!")
+print("Estás a jogar contra o computador.")
+print("Em cada turno,podes tirar 1 a 4 fósforos.")
+print("O jogador que tirar o último fósforo perde.")
+Nível = int(input("1 - Computador joga em 2º lugar e utilizador em 1ºlugar \2 - Computador joga em 1º lugar e utilizador em 2º lugar: "))
+if Nível == 1:
+    while soma > 1:
+        jogada = int(input("Quantos fósforos quer tirar (1-4)? "))
+        while jogada < 1 or jogada > 4 or jogada >= soma:
+            jogada = int(input("Jogada inválida. Escolhe entre 1 e 4 fósforos, sem deixar só 0 fósforos: "))
+        soma -= jogada
+        print(f"Fósforos restantes: {soma}")
+        if soma == 1:
+            print("Ficou 1 fósforo. Tu perdeste! O computador ganhou.")
+            break
+        # Computador
+        jogada_computador = 5 - jogada
+        if jogada_computador >= soma:
+            jogada_computador = soma - 1
+        soma -= jogada_computador
+        print(f"O computador tira {jogada_computador} fósforos.")
+        print(f"Fósforos restantes: {soma}")
+        if soma == 1:
+            print("Ficou 1 fósforo. Computador ganha e tu perdeste!")
+            break
+elif Nível == 2:
+    soma = 21
+    jogada_computador = 1
+    print(f"O computador tira {jogada_computador} fósforos e faltam {soma - jogada_computador} fósforos.")
+    soma -= jogada_computador
+    while soma > 1:
+        jogada = int(input(f"Fósforos restantes: {soma}. Quantos queres tirar de (1-4)? "))
+        while jogada < 1 or jogada > 4 or jogada >= soma:
+            jogada = int(input("Jogada inválida. Escolhe entre 1 e 4 fósforos, sem chegar a 0 fósforos: "))
+        soma -= jogada
+        if soma == 1:
+            print("Ficou 1 fósforo. Tu ganhaste! O computador perdeu.")
+            break
+        if soma <= 4:
+            jogada_computador = soma - 1
+        else:
+            if jogada + 1 <= 4:
+                jogada_computador = 5 - jogada
+            else:
+                if jogada + 4 <= 10:
+                    jogada_computador = 10 - jogada
+                    if jogada_computador > 4 or jogada_computador < 1:
+                        jogada_computador = random.randint(1, min(4, soma - 1))
+                else:
+                    jogada_computador = random.randint(1, min(4, soma - 1))
+        print(f"O computador tira {jogada_computador} fósforos.")
+        soma -= jogada_computador
+        print(f"Fósforos restantes: {soma}")
+        if soma == 1:
+            print("Ficou 1 fósforo. Computador ganha e tu perdeste!")
+            break
