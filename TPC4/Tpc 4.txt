@@ -1,0 +1,103 @@
+sala1=["Sala 1",60,[],"Spider-Man"]
+sala2=["Sala 2",60,[],"Titanic"]
+sala3=["Sala 3",55,[],"Wicked"]
+sala4=["Sala 4",40,[],"10 things I hate about you"]
+
+Cinema=[sala1,sala2,sala3,sala4]
+import random
+
+
+
+def listar(cinema):
+    print("--------Cartaz--------")
+    for sala in cinema:
+        print(sala[0]+str(": ")+sala[3],flush=True)
+    return
+
+
+def disponivel(Cinema,filme,lugar):
+    disponibilidade=False
+    for sala in Cinema:
+        if filme == sala[3] and lugar  not in sala[2]:            
+                disponibilidade=True
+    return disponibilidade
+
+def vendeBilhete(Cinema,filme,modo):
+    if modo=="Não":
+        for sala in Cinema:
+            if filme==sala[3]:
+                res = ""
+                while res != "aceite":
+                    lugar = random.randrange(1,sala[1]+1) 
+                    if disponivel(Cinema, filme, lugar): 
+                        sala[2].append(lugar)
+                        print("O lugar "+str(lugar)+" foi reservado com sucesso, desejo-lhe um bom filme!")
+                        print(sala)
+                        res = "aceite"
+                    else:
+                        res = "recusado"
+        
+
+    if modo=="Sim":
+        for sala in Cinema:
+            if filme==sala[3]:
+                lugar = int(input("Escolha o lugar que quer"))
+                if disponivel(Cinema,filme,lugar):
+                    sala[2].append(lugar)
+                    print("O lugar "+str(lugar)+" foi reservado com sucesso, desejo-lhe um bom filme!")
+                    print(sala)
+                else:
+                    print("Este lugar já está ocupado, escolha outro!")
+    
+
+def listarDisponibilidades(Cinema):
+    print("Estes são os filmes disponiveis no cinema:")
+    for sala in Cinema:
+        x= sala[1] - len(sala[2]) 
+        
+        print(sala[0] + ", com "+str(x)+" lugares disponiveis.")
+    return    
+        
+
+
+
+def inserirSala( cinema, sala, lotação, filme ):
+    sala=[sala,lotação,[],filme]
+    
+    
+    if sala not in cinema:
+        cinema.append(sala)
+    print("A sala foi adicionada com sucesso.")
+    print(sala[0]+": com lotação de "+str(sala[1])+" lugares. Filme em exibição: "+sala[3],flush=True)
+    
+
+
+
+menu=-1
+print("""Bom dia! Obrigado por escolher o nosso Cinema, aqui estão os próximos passos: 
+      (1) Listar todos os filmes em exibição;
+      (2) Verificar a disponibilidade da sala e do lugar;
+      (3) Comprar bilhete, somente após verificar a disponibilidade;
+      (4) Listar os lugares restantes em cada sala;
+      (5) Adiciona uma sala ao cinema;
+      (6) Fechar o menu.""")
+while menu !=6:
+    menu=int(input("Escolha a tua opção."))
+
+    if menu==1:
+        listar(Cinema)
+
+    elif menu ==2:
+        print(disponivel(Cinema,input("Escolha o filme que queres ver"),int(input("Escolha um lugar da sala"))))
+
+    elif menu ==3:
+        vendeBilhete(Cinema,input("Escolha o filme que queres ver"), input("Deseja escolher o lugar?(Sim ou Não)"))
+
+    
+    elif menu ==4:
+        listarDisponibilidades(Cinema)
+
+    elif menu ==5:
+        inserirSala(Cinema,input("Qual o nome da nova sala?"),int(input("Qual a lotação da sala?")),input(("Qual o filme em exibição?")))
+    
+print("Obrigado!")
