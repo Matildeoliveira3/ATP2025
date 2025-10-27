@@ -1,4 +1,4 @@
-# %%
+
 tabMeteo1 = [((2022,1,20), 2, 16, 0),((2022,1,21), 1, 13, 0.2), ((2022,1,22), 7, 17, 0.01)]
 
 def medias(tabMeteo):
@@ -14,8 +14,8 @@ def medias(tabMeteo):
 
 
 
-def guardaTabMeteo(t, fnome): #t é a tabele meteo
-    file = open(fnome, "w") # é para guardar, para guardar é para escrever 
+def guardaTabMeteo(t, fnome): 
+    file = open(fnome, "w")
     for data, tmin, tmax, prec in t:
         ano, mes, dia = data
         file.write(f"{ano}-{mes}-{dia}; {tmin}; {tmax};{prec}\n")
@@ -29,9 +29,7 @@ def carregaTabMeteo(fnome):
     res = []
     file = open(fnome, "r")
     for line in file:
-        #ler cada linha do ficheiro
-        #line = line[:-1] para tirar o /n 
-        line = line.strip()     #strip tira espaços em brando e /n q estejam no início e no fim !!!!
+        line = line.strip()    
         campos = line.split(";")
         print(campos)
         data, tmin, tmax , prec =campos
@@ -72,10 +70,9 @@ def amplTerm(tabMeteo):
 
 def maxChuva(tabMeteo):
     i = 0
-    max_prec = tabMeteo[0][3]  # começa com a primeira precipitação
-    max_data = tabMeteo[0][0]  # começa com a primeira data
-
-    while i < len(tabMeteo): #para sabermos quantas vezes o ciclo while vai ter de repetir , precisamos de saber quantos registos existem, é isso que o len nos diz
+    max_prec = tabMeteo[0][3]  
+    max_data = tabMeteo[0][0]  
+    while i < len(tabMeteo): 
         if tabMeteo[i][3] > max_prec:
             max_prec = tabMeteo[i][3]
             max_data = tabMeteo[i][0]
@@ -87,7 +84,7 @@ def maxChuva(tabMeteo):
 
 def diasChuvosos(tabMeteo, p):
     res = []
-    for registo in tabMeteo: #percorremos a lista em que cada elemento é uma tupla com 4 valores
+    for registo in tabMeteo: 
         data = registo[0]
         precipitacao = registo[3]
         if precipitacao > p:
@@ -115,8 +112,7 @@ def maxPeriodoCalor(tabMeteo, p):
     return maior
 
 tabMeteo1 = [((2022,1,20), 2, 16, 0), ((2022,1,21), 1, 13, 0.2), ((2022,1,22), 7, 17, 0.01)]
-            #prec<0.05                  aqui prec>0.05               aqui prec<0.05 mas já nao está seguido do primeiro dia
-
+           
 
 
 
@@ -146,7 +142,6 @@ def grafTabMeteo(t):
 
 
 
-# Menu principal
 menu = -1
 print("""Estas são as opções:
 (1)- Calcula temp média de cada dia;
@@ -172,7 +167,7 @@ while menu != 0:
         print("Arquivo guardado com sucesso!")
     elif menu == 3:
         print(carregaTabMeteo("meteorologia.txt"))
-    elif menu==4:
+    elif menu== 4:
         minMin(tabMeteo1)
         print(minMin(tabMeteo1))
     elif menu==5:
@@ -185,13 +180,10 @@ while menu != 0:
         print(diasChuvosos(tabMeteo3, 0.5))
     elif menu==8:
         print(maxPeriodoCalor(tabMeteo1, 0.05))
-#resultado -> apenas um dia consecutivo com prec<0.05
+
     elif menu==9:
         grafTabMeteo(tabMeteo3)
 
     else:
         print("Tenta escolher um número do menu :)")
-
-
-
 
