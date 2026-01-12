@@ -1,0 +1,479 @@
+[4.754192min] CHEGADA: Neyanne Sampaio (ORTO/Verde) -> Dr.M3
+[4.881875min] CHEGADA: Santiago Cláudio Balsa (INTERN/Verde) -> Dr.M2
+[5.201601min] CHEGADA: Yona Carrapatoso (INTERN/Verde) -> Dr.M4
+[5.651381min] CHEGADA: Iolanda Raquel Camacho (INTERN/Vermelha) -> Dr.M1
+[12.1 min] CHEGADA: Matísse Troncoo (GERAL/Verde) -> Aguarda
+[13.6 min] CHEGADA: David Alexandru Melato (GERAL/Amarela) -> Aguarda
+[14.8min] ATENDIMENTO: David Alexandru Melato (Espera:1.2m) -> Dr.M2
+[16.9min] ATENDIMENTO: Matísse Troncoo (Espera:4.7m) -> Dr.M4
+[19.1 min] CHEGADA: Ilie Filip Fartura (INTERN/Verde) -> Aguarda
+[20.1min] ATENDIMENTO: Ilie Filip Fartura (Espera:1.0m) -> Dr.M1
+[21.5 min] CHEGADA: Varvara Eusebio (GERAL/Vermelha) -> Aguarda
+[23.3min] ATENDIMENTO: Varvara Eusebio (Espera:1.8m) -> Dr.M4
+[27.006156min] CHEGADA: Erica Sofia Aziago (INTERN/Vermelha) -> Dr.M2
+[27.9 min] CHEGADA: Sofia Jorge Pequito (GERAL/Verde) -> Aguarda
+[28.0 min] CHEGADA: CLara Antónia (INTERN/Vermelha) -> Aguarda
+[28.1min] ATENDIMENTO: CLara Antónia (Espera:0.1m) -> Dr.M4
+[28.1 min] CHEGADA: Abderrahmane Fuzeta (INTERN/Verde) -> Aguarda
+[28.9min] ATENDIMENTO: Sofia Jorge Pequito (Espera:1.0m) -> Dr.M3
+[30.7min] ATENDIMENTO: Abderrahmane Fuzeta (Espera:2.6m) -> Dr.M1
+[33.9 min] CHEGADA: Emily Andreyna Braizinha (INTERN/Vermelha) -> Aguarda
+[38.4 min] CHEGADA: Idirissa Tomazio (ORTO/Verde) -> Aguarda
+[38.7 min] CHEGADA: Elmar Ganhoo (INTERN/Verde) -> Aguarda
+[39.4min] ATENDIMENTO: Emily Andreyna Braizinha (Espera:5.5m) -> Dr.M3
+[41.1 min] CHEGADA: Kinia Catambas (GERAL/Amarela) -> Aguarda
+[41.3 min] CHEGADA: Consolino Brasio (ORTO/Verde) -> Aguarda
+[41.7 min] CHEGADA: Sérgio Afonso Anceriz (CARD/Vermelha) -> Aguarda
+[43.6 min] CHEGADA: Danish Sarrazola (INTERN/Verde) -> Aguarda
+[43.7 min] CHEGADA: Mária Sofia Martires (GERAL/Verde) -> Aguarda
+[44.3 min] CHEGADA: Pureza Chiqueiro (INTERN/Verde) -> Aguarda
+[44.9 min] CHEGADA: Abdalmuhaymin Calista (GERAL/Verde) -> Aguarda
+[45.5 min] CHEGADA: Nuria Carvalho (GERAL/Amarela) -> Aguarda
+[45.7min] ATENDIMENTO: Sérgio Afonso Anceriz (Espera:4.1m) -> Dr.M4
+[46.7min] ATENDIMENTO: Kinia Catambas (Espera:5.7m) -> Dr.M2
+[50.3min] ATENDIMENTO: Nuria Carvalho (Espera:4.8m) -> Dr.M1
+[52.5 min] CHEGADA: Gernaísa Cuanhas (GERAL/Verde) -> Aguarda
+[53.4 min] CHEGADA: Ruthy Marroquim (INTERN/Verde) -> Aguarda
+[55.5 min] CHEGADA: Huda Laurina (GERAL/Vermelha) -> Aguarda
+[56.7min] ATENDIMENTO: Huda Laurina (Espera:1.2m) -> Dr.M2
+[57.3 min] CHEGADA: Fabrízio Busano (INTERN/Verde) -> Aguarda
+[58.7 min] CHEGADA: Heloisa Mateiro (ORTO/Verde) -> Aguarda
+[59.4 min] CHEGADA: Noara Arzileiro (GERAL/Verde) -> Aguarda
+[61.2 min] CHEGADA: Ruben Rafael Varanga (INTERN/Verde) -> Aguarda
+[61.6 min] CHEGADA: Orandino Jaque (INTERN/Verde) -> Aguarda
+[62.2min] ATENDIMENTO: Idirissa Tomazio (Espera:23.8m) -> Dr.M1
+[62.6min] ATENDIMENTO: Elmar Ganhoo (Espera:23.9m) -> Dr.M3
+[63.5 min] CHEGADA: Dayol Lareny Monforte (INTERN/Verde) -> Aguarda
+[64.8 min] CHEGADA: Filipp Campante (GERAL/Vermelha) -> Aguarda
+[71.1min] ATENDIMENTO: Filipp Campante (Espera:6.4m) -> Dr.M2
+[71.9 min] CHEGADA: Clara Cristina Armando (GERAL/Verde) -> Aguarda
+[77.9 min] CHEGADA: Geneza Lasca (GERAL/Verde) -> Aguarda
+[78.6min] ATENDIMENTO: Consolino Brasio (Espera:37.3m) -> Dr.M2
+[79.8min] ATENDIMENTO: Danish Sarrazola (Espera:36.2m) -> Dr.M3
+[80.2 min] CHEGADA: Vivilde Gonilho (GERAL/Amarela) -> Aguarda
+[80.3min] ATENDIMENTO: Vivilde Gonilho (Espera:0.0m) -> Dr.M1
+[80.4 min] CHEGADA: Mouhamadou Moustaph Arrobas (GERAL/Vermelha) -> Aguarda
+[80.8min] ATENDIMENTO: Mouhamadou Moustaph Arrobas (Espera:0.4m) -> Dr.M4
+[82.3min] ATENDIMENTO: Mária Sofia Martires (Espera:38.6m) -> Dr.M1
+[83.2 min] CHEGADA: Allice Pedras (INTERN/Verde) -> Aguarda
+[83.3 min] CHEGADA: Jazael Feteira (INTERN/Vermelha) -> Aguarda
+[83.3 min] CHEGADA: Ruben Fatia (INTERN/Verde) -> Aguarda
+[83.8 min] CHEGADA: Lucy Rosa Barradas (ORTO/Verde) -> Aguarda
+[84.2 min] CHEGADA: Graciana Salavis (CARD/Verde) -> Aguarda
+[85.9 min] CHEGADA: Rômulo Viegas (ORTO/Verde) -> Aguarda
+[86.6 min] CHEGADA: Rita Delages (INTERN/Vermelha) -> Aguarda
+[88.6 min] CHEGADA: Bintou Menzel (INTERN/Vermelha) -> Aguarda
+[89.2 min] CHEGADA: Tomás Mamadú Colela (INTERN/Amarela) -> Aguarda
+[90.6 min] CHEGADA: Indara Valadas (INTERN/Amarela) -> Aguarda
+[91.1 min] CHEGADA: Perla Isabel Quaresma (GERAL/Verde) -> Aguarda
+[92.3min] ATENDIMENTO: Jazael Feteira (Espera:9.0m) -> Dr.M2
+[92.9 min] CHEGADA: Pedro Luís Relvas (INTERN/Verde) -> Aguarda
+[93.1min] ATENDIMENTO: Rita Delages (Espera:6.5m) -> Dr.M4
+[95.6min] ATENDIMENTO: Bintou Menzel (Espera:7.0m) -> Dr.M1
+[96.4 min] CHEGADA: Maria da Penha Agante (ORTO/Verde) -> Aguarda
+[97.2 min] CHEGADA: Estêvão António Rey (INTERN/Vermelha) -> Aguarda
+[98.0 min] CHEGADA: Jayne Aleixo (INTERN/Verde) -> Aguarda
+[100.1 min] CHEGADA: Tayyab Ahmad Nabais (INTERN/Verde) -> Aguarda
+[100.1 min] CHEGADA: Viviane Rafaela Piloo (GERAL/Amarela) -> Aguarda
+[100.1 min] CHEGADA: Leandro Nilton Ramalhete (INTERN/Verde) -> Aguarda
+[100.4 min] CHEGADA: José Valentim Pamão (INTERN/Verde) -> Aguarda
+[102.0min] ATENDIMENTO: Estêvão António Rey (Espera:4.8m) -> Dr.M3
+[105.9 min] CHEGADA: Heden Torroo (GERAL/Verde) -> Aguarda
+[106.6min] ATENDIMENTO: Tomás Mamadú Colela (Espera:17.4m) -> Dr.M4
+[107.7min] ATENDIMENTO: Indara Valadas (Espera:17.0m) -> Dr.M1
+[110.0min] ATENDIMENTO: Viviane Rafaela Piloo (Espera:9.9m) -> Dr.M2
+[110.2 min] CHEGADA: Melissa Maria Rosendo (GERAL/Amarela) -> Aguarda
+[112.8 min] CHEGADA: Rawanne Sebastião (INTERN/Vermelha) -> Aguarda
+[116.2min] ATENDIMENTO: Rawanne Sebastião (Espera:3.4m) -> Dr.M2
+[118.0 min] CHEGADA: Samuel Lucas Tomasini (INTERN/Verde) -> Aguarda
+[120.4 min] CHEGADA: Nenegal Semblano (GERAL/Amarela) -> Aguarda
+[121.8 min] CHEGADA: Pamella Graziele Camejo (INTERN/Vermelha) -> Aguarda
+[122.1 min] CHEGADA: Amélia Carlota Gonilho (GERAL/Verde) -> Aguarda
+[122.2min] ATENDIMENTO: Pamella Graziele Camejo (Espera:0.4m) -> Dr.M3
+[124.3 min] CHEGADA: Gardel Pranto (GERAL/Vermelha) -> Aguarda
+[124.5min] ATENDIMENTO: Gardel Pranto (Espera:0.3m) -> Dr.M1
+[124.7 min] CHEGADA: Olavo Beltroo (INTERN/Amarela) -> Aguarda
+[126.1min] ATENDIMENTO: Melissa Maria Rosendo (Espera:15.9m) -> Dr.M4
+[126.4 min] CHEGADA: Miguel Enzo Malhó (GERAL/Vermelha) -> Aguarda
+[129.4min] ATENDIMENTO: Miguel Enzo Malhó (Espera:3.0m) -> Dr.M2
+[129.5min] ATENDIMENTO: Nenegal Semblano (Espera:9.1m) -> Dr.M4
+[129.9 min] CHEGADA: Dilma de Jesus Adaes (INTERN/Vermelha) -> Aguarda
+[130.2 min] CHEGADA: Kiana Noéme (GERAL/Verde) -> Aguarda
+[130.3 min] CHEGADA: Mara Alice Liz (ORTO/Verde) -> Aguarda
+[132.4min] ATENDIMENTO: Dilma de Jesus Adaes (Espera:2.6m) -> Dr.M1
+[134.3 min]   DESISTENCIA: Pureza Chiqueiro (VERDE) após 90.0 min
+[136.9 min] CHEGADA: Sire Jaria (GERAL/Verde) -> Aguarda
+[138.1min] ATENDIMENTO: Olavo Beltroo (Espera:13.3m) -> Dr.M2
+[138.2 min] CHEGADA: Ariana de Fátima Calcinha (CARD/Amarela) -> Aguarda
+[139.0min] ATENDIMENTO: Ariana de Fátima Calcinha (Espera:0.8m) -> Dr.M1
+[139.8min] ATENDIMENTO: Abdalmuhaymin Calista (Espera:94.9m) -> Dr.M3
+[140.8min] ATENDIMENTO: Gernaísa Cuanhas (Espera:88.3m) -> Dr.M4
+[141.6 min] CHEGADA: Dicael Asseiro (GERAL/Amarela) -> Aguarda
+[143.4 min]   DESISTENCIA: Ruthy Marroquim (VERDE) após 90.0 min
+[143.7 min] CHEGADA: Deyvan Júnior Genro (GERAL/Verde) -> Aguarda
+[147.3 min]   DESISTENCIA: Fabrízio Busano (VERDE) após 90.0 min
+[147.5min] ATENDIMENTO: Dicael Asseiro (Espera:5.9m) -> Dr.M2
+[147.9 min] CHEGADA: Matilde Manuela Mácario (GERAL/Amarela) -> Aguarda
+[148.7 min]   DESISTENCIA: Heloisa Mateiro (VERDE) após 90.0 min
+[148.9 min] CHEGADA: Carmezinda Choupeiro (GERAL/Verde) -> Aguarda
+[149.2 min] CHEGADA: Juliette Ana Lopez (GERAL/Amarela) -> Aguarda
+[149.4 min]   DESISTENCIA: Noara Arzileiro (VERDE) após 90.0 min
+[149.5 min] CHEGADA: Natilia Fragata (GERAL/Verde) -> Aguarda
+[149.6min] ATENDIMENTO: Matilde Manuela Mácario (Espera:1.7m) -> Dr.M3
+[151.2 min]   DESISTENCIA: Ruben Rafael Varanga (VERDE) após 90.0 min
+[151.6 min]   DESISTENCIA: Orandino Jaque (VERDE) após 90.0 min
+[151.6min] ATENDIMENTO: Juliette Ana Lopez (Espera:2.4m) -> Dr.M4
+[153.3 min] CHEGADA: Afonso Alexandre Prado (INTERN/Verde) -> Aguarda
+[153.5 min]   DESISTENCIA: Dayol Lareny Monforte (VERDE) após 90.0 min
+[157.1 min] CHEGADA: Safwana Valada (GERAL/Verde) -> Aguarda
+[157.8 min] CHEGADA: César Martim Rebouças (INTERN/Verde) -> Aguarda
+[157.9min] ATENDIMENTO: Clara Cristina Armando (Espera:86.0m) -> Dr.M2
+[159.6 min] CHEGADA: Georgina Muge (GERAL/Vermelha) -> Aguarda
+[161.9min] ATENDIMENTO: Georgina Muge (Espera:2.4m) -> Dr.M3
+[162.2min] ATENDIMENTO: Geneza Lasca (Espera:84.3m) -> Dr.M1
+[163.1 min] CHEGADA: Elvira Francisca Parro (GERAL/Vermelha) -> Aguarda
+[163.4 min] CHEGADA: Quevim Valentoo (ORTO/Verde) -> Aguarda
+[163.8 min] CHEGADA: Yara Susana Carnoto (GERAL/Verde) -> Aguarda
+[164.3 min] CHEGADA: Launyo Futre (INTERN/Vermelha) -> Aguarda
+[164.4 min] CHEGADA: Jules Faroleiro (ORTO/Amarela) -> Aguarda
+[164.8 min] CHEGADA: Lucénio Alfaro (GERAL/Verde) -> Aguarda
+[165.9min] ATENDIMENTO: Elvira Francisca Parro (Espera:2.8m) -> Dr.M4
+[166.3 min] CHEGADA: Yuri-Martin Arraiano (INTERN/Amarela) -> Aguarda
+[168.4 min] CHEGADA: Miguel Andrés Faleiro (INTERN/Vermelha) -> Aguarda
+[168.9 min] CHEGADA: Linette Barriço (GERAL/Verde) -> Aguarda
+[169.9min] ATENDIMENTO: Launyo Futre (Espera:5.6m) -> Dr.M3
+[170.1 min] CHEGADA: Natchali Viriato (GERAL/Verde) -> Aguarda
+[170.3 min] CHEGADA: Diogo Vasco Queiróz (GERAL/Amarela) -> Aguarda
+[170.7 min] CHEGADA: Miroslavo Ganhão (GERAL/Amarela) -> Aguarda
+[172.3 min] CHEGADA: Baltasar Cale (GERAL/Verde) -> Aguarda
+[173.2 min]   DESISTENCIA: Allice Pedras (VERDE) após 90.0 min
+[173.3 min]   DESISTENCIA: Ruben Fatia (VERDE) após 90.0 min
+[173.6min] ATENDIMENTO: Miguel Andrés Faleiro (Espera:5.2m) -> Dr.M1
+[173.8 min]   DESISTENCIA: Lucy Rosa Barradas (VERDE) após 90.0 min
+[174.2 min] CHEGADA: Jansénio Bragança (GERAL/Amarela) -> Aguarda
+[175.1 min] CHEGADA: António Vasco Senano (ORTO/Vermelha) -> Aguarda
+[175.9 min]   DESISTENCIA: Rômulo Viegas (VERDE) após 90.0 min
+[176.1min] ATENDIMENTO: António Vasco Senano (Espera:1.1m) -> Dr.M2
+[179.2 min] CHEGADA: Ângela Ariela Petrucci (GERAL/Verde) -> Aguarda
+[182.9 min]   DESISTENCIA: Pedro Luís Relvas (VERDE) após 90.0 min
+[183.0 min] CHEGADA: Guilherme Ângelo Sacur (ORTO/Verde) -> Aguarda
+[184.1 min] CHEGADA: David Samuel Namorado (GERAL/Verde) -> Aguarda
+[185.5min] ATENDIMENTO: Jules Faroleiro (Espera:21.1m) -> Dr.M4
+[186.4 min]   DESISTENCIA: Maria da Penha Agante (VERDE) após 90.0 min
+[188.0 min]   DESISTENCIA: Jayne Aleixo (VERDE) após 90.0 min
+[188.1min] ATENDIMENTO: Yuri-Martin Arraiano (Espera:21.8m) -> Dr.M3
+[190.0 min] CHEGADA: Darian Alcantara (INTERN/Amarela) -> Aguarda
+[190.1 min]   DESISTENCIA: Tayyab Ahmad Nabais (VERDE) após 90.0 min
+[190.4 min]   DESISTENCIA: José Valentim Pamão (VERDE) após 90.0 min
+[191.3 min] CHEGADA: Gurvir Bacharel (INTERN/Verde) -> Aguarda
+[195.9 min]   DESISTENCIA: Heden Torroo (VERDE) após 90.0 min
+[197.8 min] CHEGADA: Raissa Mimoso Roca (ORTO/Amarela) -> Aguarda
+[198.5min] ATENDIMENTO: Diogo Vasco Queiróz (Espera:28.3m) -> Dr.M1
+[198.6 min] CHEGADA: Édipo Marcelino (INTERN/Vermelha) -> Aguarda
+[199.2min] ATENDIMENTO: Édipo Marcelino (Espera:0.6m) -> Dr.M2
+[200.6 min] CHEGADA: Kailia Sophia Lança (ORTO/Vermelha) -> Aguarda
+[201.9 min] CHEGADA: Ariana Valentina Donato (GERAL/Verde) -> Aguarda
+[202.4 min] CHEGADA: Sónia Alexandra Falizol (ORTO/Verde) -> Aguarda
+[207.6 min] CHEGADA: Abdelrahman Areu (INTERN/Vermelha) -> Aguarda
+[208.0 min]   DESISTENCIA: Samuel Lucas Tomasini (VERDE) após 90.0 min
+[208.3min] ATENDIMENTO: Kailia Sophia Lança (Espera:7.7m) -> Dr.M3
+[209.6 min] CHEGADA: Isa Mar Nada (INTERN/Verde) -> Aguarda
+[210.3 min] CHEGADA: Éllene Yohanni Simoo (INTERN/Vermelha) -> Aguarda
+[210.4min] ATENDIMENTO: Abdelrahman Areu (Espera:2.8m) -> Dr.M4
+[211.3 min] CHEGADA: Nuno Álvares Salmim (INTERN/Verde) -> Aguarda
+[211.4min] ATENDIMENTO: Éllene Yohanni Simoo (Espera:1.1m) -> Dr.M1
+[212.1 min]   DESISTENCIA: Amélia Carlota Gonilho (VERDE) após 90.0 min
+[212.6 min] CHEGADA: Irene Maria Sacadura (INTERN/Amarela) -> Aguarda
+[213.1 min] CHEGADA: Dinis Francisco Adelia (ORTO/Verde) -> Aguarda
+[213.8 min] CHEGADA: Miqueias Eufrásio (INTERN/Vermelha) -> Aguarda
+[213.8 min] CHEGADA: Nirvair Torais (GERAL/Verde) -> Aguarda
+[214.5 min] CHEGADA: Valentina Patrícia Cavem (INTERN/Verde) -> Aguarda
+[217.5 min] CHEGADA: Duarte Ramir Eleutério (ORTO/Amarela) -> Aguarda
+[217.5 min] CHEGADA: Taniya Ortigão (GERAL/Verde) -> Aguarda
+[217.6min] ATENDIMENTO: Miqueias Eufrásio (Espera:3.8m) -> Dr.M2
+[219.4 min] CHEGADA: Lourenço Diego Jana (GERAL/Amarela) -> Aguarda
+[220.2 min]   DESISTENCIA: Kiana Noéme (VERDE) após 90.0 min
+[220.3 min]   DESISTENCIA: Mara Alice Liz (VERDE) após 90.0 min
+[220.6 min] CHEGADA: Jaciara Patrícia Avelez (INTERN/Amarela) -> Aguarda
+[221.9 min] CHEGADA: Duarte Amílcar Portario (GERAL/Vermelha) -> Aguarda
+[224.3 min] CHEGADA: Dário Luís Trocana (GERAL/Verde) -> Aguarda
+[224.8min] ATENDIMENTO: Duarte Amílcar Portario (Espera:3.0m) -> Dr.M4
+[225.6 min] CHEGADA: Ruben Daniel Gervásio (INTERN/Vermelha) -> Aguarda
+[226.9 min]   DESISTENCIA: Sire Jaria (VERDE) após 90.0 min
+[227.1min] ATENDIMENTO: Ruben Daniel Gervásio (Espera:1.5m) -> Dr.M1
+[227.8 min] CHEGADA: Éderzito José Lila (GERAL/Verde) -> Aguarda
+[229.8 min] CHEGADA: Jaiantcumar Callichio (CARD/Verde) -> Aguarda
+[230.6 min] CHEGADA: Jerusa Jaime (INTERN/Verde) -> Aguarda
+[230.8 min] CHEGADA: Maria do Sinai Tubarão (GERAL/Verde) -> Aguarda
+[231.0 min] CHEGADA: Adwait Cruchinho (GERAL/Verde) -> Aguarda
+[231.1min] ATENDIMENTO: Miroslavo Ganhão (Espera:60.4m) -> Dr.M3
+[231.6min] ATENDIMENTO: Jansénio Bragança (Espera:57.4m) -> Dr.M2
+[232.2min] ATENDIMENTO: Darian Alcantara (Espera:42.2m) -> Dr.M4
+[233.7 min]   DESISTENCIA: Deyvan Júnior Genro (VERDE) após 90.0 min
+[236.7 min] CHEGADA: Érica Diana Cruz (INTERN/Verde) -> Aguarda
+[237.5min] ATENDIMENTO: Raissa Mimoso Roca (Espera:39.7m) -> Dr.M2
+[238.9 min]   DESISTENCIA: Carmezinda Choupeiro (VERDE) após 90.0 min
+[240.8min] ATENDIMENTO: Irene Maria Sacadura (Espera:28.2m) -> Dr.M1
+[241.6min] ATENDIMENTO: Duarte Ramir Eleutério (Espera:24.2m) -> Dr.M3
+[242.7min] ATENDIMENTO: Lourenço Diego Jana (Espera:23.4m) -> Dr.M4
+[243.3 min]   DESISTENCIA: Afonso Alexandre Prado (VERDE) após 90.0 min
+[243.8 min] CHEGADA: Aizen Pechim (INTERN/Amarela) -> Aguarda
+[246.6 min] CHEGADA: Sofia Rose Comba (GERAL/Verde) -> Aguarda
+[246.9 min] CHEGADA: Martim Giovani Meliciano (INTERN/Amarela) -> Aguarda
+[247.1 min]   DESISTENCIA: Safwana Valada (VERDE) após 90.0 min
+[247.3 min] CHEGADA: Carla Filipa Gaião (INTERN/Verde) -> Aguarda
+[248.7 min] CHEGADA: Simone Margarida Bonda (INTERN/Verde) -> Aguarda
+[249.2min] ATENDIMENTO: Jaciara Patrícia Avelez (Espera:28.6m) -> Dr.M1
+[250.7 min] CHEGADA: Enzo Jorge Vares (INTERN/Verde) -> Aguarda
+[253.4 min]   DESISTENCIA: Quevim Valentoo (VERDE) após 90.0 min
+[253.8 min]   DESISTENCIA: Yara Susana Carnoto (VERDE) após 90.0 min
+[254.8 min]   DESISTENCIA: Lucénio Alfaro (VERDE) após 90.0 min
+[256.0 min] CHEGADA: Aramis Chamica (INTERN/Verde) -> Aguarda
+[256.0min] ATENDIMENTO: Aizen Pechim (Espera:12.2m) -> Dr.M4
+[256.3 min] CHEGADA: Julnar Camacho (CARD/Verde) -> Aguarda
+[257.5 min] CHEGADA: Alisha Ciara Guilhoto (INTERN/Vermelha) -> Aguarda
+[257.6 min] CHEGADA: Henrique Dinis Lopez (INTERN/Amarela) -> Aguarda
+[258.2 min] CHEGADA: Luísa Miguel Durão (GERAL/Amarela) -> Aguarda
+[258.7min] ATENDIMENTO: Alisha Ciara Guilhoto (Espera:1.2m) -> Dr.M1
+[259.1 min] CHEGADA: Usmane Bapahté Fatelo (GERAL/Verde) -> Aguarda
+[260.2 min] CHEGADA: Léna Fialho (INTERN/Verde) -> Aguarda
+[260.4min] ATENDIMENTO: Martim Giovani Meliciano (Espera:13.6m) -> Dr.M2
+[262.3 min]   DESISTENCIA: Baltasar Cale (VERDE) após 90.0 min
+[264.2 min]   DESISTENCIA: Graciana Salavis (VERDE) após 180.0 min
+[264.4min] ATENDIMENTO: Henrique Dinis Lopez (Espera:6.8m) -> Dr.M4
+[264.6 min] CHEGADA: Orestis Cabrita (ORTO/Verde) -> Aguarda
+[266.1 min] CHEGADA: Luísa Raquel Bogalho (ORTO/Vermelha) -> Aguarda
+[267.5 min] CHEGADA: Aliny Carmim (GERAL/Amarela) -> Aguarda
+[268.3 min] CHEGADA: Katerin Afra (INTERN/Amarela) -> Aguarda
+[269.2 min]   DESISTENCIA: Ângela Ariela Petrucci (VERDE) após 90.0 min
+[269.3min] ATENDIMENTO: Luísa Raquel Bogalho (Espera:3.2m) -> Dr.M3
+[271.1 min]   DESISTENCIA: Perla Isabel Quaresma (VERDE) após 180.0 min
+[271.5 min] CHEGADA: Ari Cristiano Abudo (GERAL/Verde) -> Aguarda
+[271.6min] ATENDIMENTO: Luísa Miguel Durão (Espera:13.4m) -> Dr.M1
+[274.1 min]   DESISTENCIA: David Samuel Namorado (VERDE) após 90.0 min
+[275.4 min] CHEGADA: Sophia Karin Marianne Cardeal (INTERN/Amarela) -> Aguarda
+[276.7 min] CHEGADA: Gabriel Nicolae Forneas (GERAL/Verde) -> Aguarda
+[279.5min] ATENDIMENTO: Aliny Carmim (Espera:12.0m) -> Dr.M2
+[279.5min] ATENDIMENTO: Katerin Afra (Espera:11.3m) -> Dr.M4
+[279.7 min] CHEGADA: Aryana Melissa Bolroo (GERAL/Verde) -> Aguarda
+[280.1 min]   DESISTENCIA: Leandro Nilton Ramalhete (VERDE) após 180.0 min
+[280.8 min] CHEGADA: Adriel Napoleão Fumeiro (ORTO/Verde) -> Aguarda
+[281.3 min]   DESISTENCIA: Gurvir Bacharel (VERDE) após 90.0 min
+[281.5 min] CHEGADA: Anteia Garces (GERAL/Vermelha) -> Aguarda
+[282.2min] ATENDIMENTO: Anteia Garces (Espera:0.7m) -> Dr.M3
+[282.2 min] CHEGADA: Domicilia Choo (INTERN/Amarela) -> Aguarda
+[282.5 min] CHEGADA: Maico Gàsio (INTERN/Verde) -> Aguarda
+[283.6 min] CHEGADA: Martin Jose Salomé (INTERN/Verde) -> Aguarda
+[284.5 min] CHEGADA: Tommaso Brunheta (INTERN/Amarela) -> Aguarda
+[285.3min] ATENDIMENTO: Sophia Karin Marianne Cardeal (Espera:9.9m) -> Dr.M1
+[288.1 min] CHEGADA: Buia Campia (INTERN/Verde) -> Aguarda
+[288.1 min] CHEGADA: Benedita Filipa Roseta (GERAL/Verde) -> Aguarda
+[288.6 min] CHEGADA: Salvador André Gramaca (GERAL/Verde) -> Aguarda
+[291.9 min]   DESISTENCIA: Ariana Valentina Donato (VERDE) após 90.0 min
+[292.4min] ATENDIMENTO: Domicilia Choo (Espera:10.2m) -> Dr.M3
+[292.4 min]   DESISTENCIA: Sónia Alexandra Falizol (VERDE) após 90.0 min
+[292.5 min] CHEGADA: Miriam Alice Sá (ORTO/Vermelha) -> Aguarda
+[292.6 min] CHEGADA: Santiago Augusto Garriopa (GERAL/Amarela) -> Aguarda
+[292.6min] ATENDIMENTO: Miriam Alice Sá (Espera:0.1m) -> Dr.M4
+[294.1min] ATENDIMENTO: Tommaso Brunheta (Espera:9.6m) -> Dr.M2
+[294.4min] ATENDIMENTO: Santiago Augusto Garriopa (Espera:1.8m) -> Dr.M1
+[299.6 min]   DESISTENCIA: Isa Mar Nada (VERDE) após 90.0 min
+[300.3 min] CHEGADA: Taim Ginjeira (GERAL/Amarela) -> Aguarda
+[301.3 min]   DESISTENCIA: Nuno Álvares Salmim (VERDE) após 90.0 min
+[301.8 min] CHEGADA: Beatriz Isabel Agulha (GERAL/Vermelha) -> Aguarda
+[302.0 min] CHEGADA: Aurea Maria Castela (GERAL/Vermelha) -> Aguarda
+[303.1 min]   DESISTENCIA: Dinis Francisco Adelia (VERDE) após 90.0 min
+[303.8 min]   DESISTENCIA: Nirvair Torais (VERDE) após 90.0 min
+[304.5 min]   DESISTENCIA: Valentina Patrícia Cavem (VERDE) após 90.0 min
+[304.9 min] CHEGADA: Rafael Pedro Sepodes (INTERN/Verde) -> Aguarda
+[305.4min] ATENDIMENTO: Beatriz Isabel Agulha (Espera:3.6m) -> Dr.M1
+[308.0min] ATENDIMENTO: Aurea Maria Castela (Espera:5.9m) -> Dr.M3
+[308.1 min] CHEGADA: Urciana Menitra (GERAL/Verde) -> Aguarda
+[309.7 min] CHEGADA: Bruce Bolroo (INTERN/Verde) -> Aguarda
+[310.7 min] CHEGADA: Suryanne Geadas (GERAL/Verde) -> Aguarda
+[311.1min] ATENDIMENTO: Taim Ginjeira (Espera:10.8m) -> Dr.M2
+[311.1min] ATENDIMENTO: Natilia Fragata (Espera:161.6m) -> Dr.M4
+[314.3 min]   DESISTENCIA: Dário Luís Trocana (VERDE) após 90.0 min
+[314.8min] ATENDIMENTO: César Martim Rebouças (Espera:157.0m) -> Dr.M1
+[317.8 min]   DESISTENCIA: Éderzito José Lila (VERDE) após 90.0 min
+[318.9min] ATENDIMENTO: Linette Barriço (Espera:150.1m) -> Dr.M4
+[319.8 min]   DESISTENCIA: Jaiantcumar Callichio (VERDE) após 90.0 min
+[320.6 min]   DESISTENCIA: Jerusa Jaime (VERDE) após 90.0 min
+[320.8 min]   DESISTENCIA: Maria do Sinai Tubarão (VERDE) após 90.0 min
+[321.0 min]   DESISTENCIA: Adwait Cruchinho (VERDE) após 90.0 min
+[322.4min] ATENDIMENTO: Natchali Viriato (Espera:152.2m) -> Dr.M2
+[323.0min] ATENDIMENTO: Guilherme Ângelo Sacur (Espera:140.0m) -> Dr.M3
+[324.5min] ATENDIMENTO: Taniya Ortigão (Espera:107.0m) -> Dr.M4
+[324.7 min] CHEGADA: Dharyani Balula (INTERN/Vermelha) -> Aguarda
+[326.7 min]   DESISTENCIA: Érica Diana Cruz (VERDE) após 90.0 min
+[331.1 min] CHEGADA: Denilson Pimenta (ORTO/Verde) -> Aguarda
+[333.9min] ATENDIMENTO: Dharyani Balula (Espera:9.2m) -> Dr.M2
+[334.6min] ATENDIMENTO: Sofia Rose Comba (Espera:88.0m) -> Dr.M1
+[334.9min] ATENDIMENTO: Carla Filipa Gaião (Espera:87.6m) -> Dr.M4
+[335.4 min] CHEGADA: Dharyani Grilo (CARD/Verde) -> Aguarda
+[338.7 min]   DESISTENCIA: Simone Margarida Bonda (VERDE) após 90.0 min
+[340.6min] ATENDIMENTO: Enzo Jorge Vares (Espera:89.8m) -> Dr.M3
+[342.1 min] CHEGADA: Carina Maria Carrito (GERAL/Amarela) -> Aguarda
+[343.7 min] CHEGADA: Lara Manuela Miranda (ORTO/Verde) -> Aguarda
+[344.8min] ATENDIMENTO: Carina Maria Carrito (Espera:2.8m) -> Dr.M1
+[345.4 min] CHEGADA: Lia Malakai Rilhó (INTERN/Verde) -> Aguarda
+[346.3 min]   DESISTENCIA: Julnar Camacho (VERDE) após 90.0 min
+[347.3 min] CHEGADA: Edeleny Podoo (INTERN/Verde) -> Aguarda
+[350.3 min] CHEGADA: André Luíz Calinas (CARD/Amarela) -> Aguarda
+[350.8min] ATENDIMENTO: André Luíz Calinas (Espera:0.4m) -> Dr.M1
+[350.8 min] CHEGADA: Érick Pátrick Arreiano (INTERN/Amarela) -> Aguarda
+[351.3min] ATENDIMENTO: Érick Pátrick Arreiano (Espera:0.5m) -> Dr.M4
+[351.5 min] CHEGADA: Yannes Torrão (ORTO/Verde) -> Aguarda
+[354.1 min] CHEGADA: Gabriel Xavier Ceveira (INTERN/Verde) -> Aguarda
+[354.6 min]   DESISTENCIA: Orestis Cabrita (VERDE) após 90.0 min
+[355.3 min] CHEGADA: Carolina Jacinta Ponte (INTERN/Verde) -> Aguarda
+[355.5min] ATENDIMENTO: Aramis Chamica (Espera:99.5m) -> Dr.M3
+[355.5 min] CHEGADA: Alberto Dinis Frausto (INTERN/Verde) -> Aguarda
+[357.0min] ATENDIMENTO: Usmane Bapahté Fatelo (Espera:97.9m) -> Dr.M2
+[358.5 min] CHEGADA: Rayhanatou Mordomo (ORTO/Verde) -> Aguarda
+[360.0 min] CHEGADA: Darina Rainha (ORTO/Verde) -> Aguarda
+[361.0 min] CHEGADA: Leonardo Paulo Paveia (INTERN/Verde) -> Aguarda
+[364.7 min] CHEGADA: Lwane Toito (ORTO/Amarela) -> Aguarda
+[365.0 min] CHEGADA: Clementine Macieira (INTERN/Verde) -> Aguarda
+[365.6min] ATENDIMENTO: Lwane Toito (Espera:0.8m) -> Dr.M3
+[365.6min] ATENDIMENTO: Léna Fialho (Espera:105.4m) -> Dr.M4
+[366.7 min]   DESISTENCIA: Gabriel Nicolae Forneas (VERDE) após 90.0 min
+[367.1min] ATENDIMENTO: Ari Cristiano Abudo (Espera:95.6m) -> Dr.M2
+[368.3 min] CHEGADA: Ricarte Trasmontana (INTERN/Verde) -> Aguarda
+[369.7 min]   DESISTENCIA: Aryana Melissa Bolroo (VERDE) após 90.0 min
+[370.8 min] CHEGADA: Adilar Militoo (GERAL/Verde) -> Aguarda
+[370.8 min]   DESISTENCIA: Adriel Napoleão Fumeiro (VERDE) após 90.0 min
+[371.3min] ATENDIMENTO: Maico Gàsio (Espera:88.8m) -> Dr.M1
+[371.4 min] CHEGADA: Jane-Grace Aleluia (CARD/Vermelha) -> Aguarda
+[373.6 min]   DESISTENCIA: Martin Jose Salomé (VERDE) após 90.0 min
+[378.1 min] CHEGADA: Ádrian Pranchas (GERAL/Vermelha) -> Aguarda
+[378.1 min]   DESISTENCIA: Buia Campia (VERDE) após 90.0 min
+[378.1 min]   DESISTENCIA: Benedita Filipa Roseta (VERDE) após 90.0 min
+[378.9min] ATENDIMENTO: Jane-Grace Aleluia (Espera:7.5m) -> Dr.M4
+[379.9 min] CHEGADA: Ludmilla Façanhas (ORTO/Verde) -> Aguarda
+[380.6min] ATENDIMENTO: Ádrian Pranchas (Espera:2.5m) -> Dr.M2
+[385.8 min] CHEGADA: Lisuarte Lacueva (INTERN/Verde) -> Aguarda
+[386.0min] ATENDIMENTO: Salvador André Gramaca (Espera:97.5m) -> Dr.M3
+[388.4 min] CHEGADA: Alycia Natália Murta (GERAL/Verde) -> Aguarda
+[388.5 min] CHEGADA: Tilak Brigido (GERAL/Verde) -> Aguarda
+[389.7min] ATENDIMENTO: Rafael Pedro Sepodes (Espera:84.8m) -> Dr.M1
+[391.3min] ATENDIMENTO: Urciana Menitra (Espera:83.2m) -> Dr.M2
+[391.5min] ATENDIMENTO: Bruce Bolroo (Espera:81.9m) -> Dr.M3
+[393.4 min] CHEGADA: Lisa Marie Baranda (INTERN/Amarela) -> Aguarda
+[393.5 min] CHEGADA: Dília Orey (GERAL/Verde) -> Aguarda
+[394.0 min] CHEGADA: Alcindo Rui Troca (INTERN/Verde) -> Aguarda
+[396.0 min] CHEGADA: Eliane Silvia Severino (ORTO/Verde) -> Aguarda
+[397.1min] ATENDIMENTO: Lisa Marie Baranda (Espera:3.6m) -> Dr.M2
+[397.8 min] CHEGADA: Eduardo Nuno Subtil (INTERN/Amarela) -> Aguarda
+[399.8 min] CHEGADA: Kévan Pedronho (GERAL/Verde) -> Aguarda
+[400.7 min]   DESISTENCIA: Suryanne Geadas (VERDE) após 90.0 min
+[400.8min] ATENDIMENTO: Eduardo Nuno Subtil (Espera:3.0m) -> Dr.M3
+[402.1min] ATENDIMENTO: Denilson Pimenta (Espera:71.0m) -> Dr.M4
+[404.1 min] CHEGADA: Lutero Lero (CARD/Verde) -> Aguarda
+[404.2 min] CHEGADA: Doriana Maria Macieira (GERAL/Amarela) -> Aguarda
+[405.0min] ATENDIMENTO: Doriana Maria Macieira (Espera:0.8m) -> Dr.M1
+[406.8 min] CHEGADA: Luziana Petricia (GERAL/Verde) -> Aguarda
+[407.9 min] CHEGADA: Jeciane Erdoino (GERAL/Vermelha) -> Aguarda
+[410.5min] ATENDIMENTO: Jeciane Erdoino (Espera:2.6m) -> Dr.M2
+[411.1 min] CHEGADA: Caiús Barrios (INTERN/Verde) -> Aguarda
+[412.4min] ATENDIMENTO: Dharyani Grilo (Espera:77.0m) -> Dr.M3
+[412.5 min] CHEGADA: Aurora da Conceição Bem (INTERN/Verde) -> Aguarda
+[414.8 min] CHEGADA: Lenon Vides (GERAL/Amarela) -> Aguarda
+[415.0 min] CHEGADA: Gabriel Felipe Calisto (GERAL/Amarela) -> Aguarda
+[415.1min] ATENDIMENTO: Lenon Vides (Espera:0.2m) -> Dr.M1
+[416.9min] ATENDIMENTO: Gabriel Felipe Calisto (Espera:1.9m) -> Dr.M2
+[418.7 min] CHEGADA: Conceição Irina Eufrázio (GERAL/Vermelha) -> Aguarda
+[418.8min] ATENDIMENTO: Conceição Irina Eufrázio (Espera:0.1m) -> Dr.M4
+[420.6 min] CHEGADA: Ariana Estela Branquinha (INTERN/Amarela) -> Aguarda
+[421.3 min] CHEGADA: Mateus Rafael Samões (GERAL/Verde) -> Aguarda
+[423.5min] ATENDIMENTO: Ariana Estela Branquinha (Espera:2.9m) -> Dr.M2
+[423.5 min] CHEGADA: Ananya Sashikant Tadeu (INTERN/Amarela) -> Aguarda
+[423.8min] ATENDIMENTO: Ananya Sashikant Tadeu (Espera:0.2m) -> Dr.M1
+[424.5 min] CHEGADA: Tomás Rui Meliciano (INTERN/Verde) -> Aguarda
+[424.6 min] CHEGADA: Alimatu Creado (INTERN/Verde) -> Aguarda
+[427.7min] ATENDIMENTO: Lara Manuela Miranda (Espera:84.1m) -> Dr.M4
+[429.8 min] CHEGADA: Olávio Caixinha (ORTO/Vermelha) -> Aguarda
+[430.4 min] CHEGADA: Mutu Taraio (GERAL/Verde) -> Aguarda
+[432.6 min] CHEGADA: Kelly Ariana Durão (GERAL/Verde) -> Aguarda
+[434.4 min] CHEGADA: Yara Gabriela Aleixo (INTERN/Amarela) -> Aguarda
+[437.3min] ATENDIMENTO: Olávio Caixinha (Espera:7.4m) -> Dr.M1
+[437.3 min]   DESISTENCIA: Edeleny Podoo (VERDE) após 90.0 min
+[437.8 min] CHEGADA: Ahsan Beata (GERAL/Verde) -> Aguarda
+[438.3min] ATENDIMENTO: Yara Gabriela Aleixo (Espera:3.9m) -> Dr.M2
+[439.0min] ATENDIMENTO: Lia Malakai Rilhó (Espera:93.7m) -> Dr.M3
+[439.0 min] CHEGADA: Margarete Marme (INTERN/Verde) -> Aguarda
+[439.2 min] CHEGADA: Alaim Molato (ORTO/Verde) -> Aguarda
+[441.5 min]   DESISTENCIA: Yannes Torrão (VERDE) após 90.0 min
+[444.1 min] CHEGADA: Alfie Muja (INTERN/Amarela) -> Aguarda
+[444.1 min]   DESISTENCIA: Gabriel Xavier Ceveira (VERDE) após 90.0 min
+[445.5 min]   DESISTENCIA: Alberto Dinis Frausto (VERDE) após 90.0 min
+[447.0 min] CHEGADA: Leonor Conceição Leme (ORTO/Verde) -> Aguarda
+[449.2min] ATENDIMENTO: Alfie Muja (Espera:5.1m) -> Dr.M3
+[449.3 min] CHEGADA: Duarte Xavier Façanha (CARD/Verde) -> Aguarda
+[450.0 min]   DESISTENCIA: Darina Rainha (VERDE) após 90.0 min
+[450.1 min] CHEGADA: Ardiles Ferraço (GERAL/Amarela) -> Aguarda
+[450.5min] ATENDIMENTO: Ardiles Ferraço (Espera:0.4m) -> Dr.M2
+[451.0 min]   DESISTENCIA: Leonardo Paulo Paveia (VERDE) após 90.0 min
+[452.3 min] CHEGADA: Cláudio João Silva (ORTO/Verde) -> Aguarda
+[453.3min] ATENDIMENTO: Carolina Jacinta Ponte (Espera:98.0m) -> Dr.M1
+[453.4min] ATENDIMENTO: Rayhanatou Mordomo (Espera:94.9m) -> Dr.M4
+[453.5 min] CHEGADA: Kaiyang Miliciano (GERAL/Verde) -> Aguarda
+[454.0 min] CHEGADA: Eliane Cristina Gemelgo (GERAL/Amarela) -> Aguarda
+[454.5 min] CHEGADA: Stivan Marcalino (GERAL/Verde) -> Aguarda
+[454.9 min] CHEGADA: Meng Hou Jayden Braizinha (INTERN/Verde) -> Aguarda
+[455.0 min]   DESISTENCIA: Clementine Macieira (VERDE) após 90.0 min
+[455.7min] ATENDIMENTO: Eliane Cristina Gemelgo (Espera:1.7m) -> Dr.M2
+[458.3 min]   DESISTENCIA: Ricarte Trasmontana (VERDE) após 90.0 min
+[460.2min] ATENDIMENTO: Adilar Militoo (Espera:89.5m) -> Dr.M1
+[460.3 min] CHEGADA: Bruna Micaela Balulo (GERAL/Verde) -> Aguarda
+[460.8 min] CHEGADA: Thailine Lins (GERAL/Verde) -> Aguarda
+[463.7 min] CHEGADA: Paloma Alexandra Olimpio (ORTO/Verde) -> Aguarda
+[465.3min] ATENDIMENTO: Ludmilla Façanhas (Espera:85.4m) -> Dr.M2
+[466.2min] ATENDIMENTO: Lisuarte Lacueva (Espera:80.4m) -> Dr.M3
+[467.9 min] CHEGADA: Bianca Sabrina Azedo (INTERN/Vermelha) -> Aguarda
+[468.8 min] CHEGADA: Bárbara Salomé Dixe (GERAL/Vermelha) -> Aguarda
+[469.7min] ATENDIMENTO: Bianca Sabrina Azedo (Espera:1.9m) -> Dr.M1
+[470.4 min] CHEGADA: Fenda Rubina (GERAL/Verde) -> Aguarda
+[473.3 min] CHEGADA: Satam Cotanheira (GERAL/Verde) -> Aguarda
+[473.4 min] CHEGADA: Axel Novato Barriço (INTERN/Vermelha) -> Aguarda
+[473.7 min] CHEGADA: Bartolomeu Perestrelo Genro (ORTO/Vermelha) -> Aguarda
+[475.1min] ATENDIMENTO: Bárbara Salomé Dixe (Espera:6.2m) -> Dr.M4
+[475.4 min] CHEGADA: Norton Bicalho (GERAL/Verde) -> Aguarda
+[475.9 min] CHEGADA: Ricardo Yordanov Lisete (GERAL/Verde) -> Aguarda
+[478.4 min]   DESISTENCIA: Alycia Natália Murta (VERDE) após 90.0 min
+[478.5 min]   DESISTENCIA: Tilak Brigido (VERDE) após 90.0 min
+[479.9 min] CHEGADA: Maria de Lourdes Bontempo (GERAL/Vermelha) -> Aguarda
+[483.4 min] CHEGADA: Hadasa Anaya (GERAL/Vermelha) -> Aguarda
+[483.5 min]   DESISTENCIA: Dília Orey (VERDE) após 90.0 min
+[484.0 min]   DESISTENCIA: Alcindo Rui Troca (VERDE) após 90.0 min
+[485.2min] ATENDIMENTO: Axel Novato Barriço (Espera:11.9m) -> Dr.M1
+[485.3min] ATENDIMENTO: Bartolomeu Perestrelo Genro (Espera:11.6m) -> Dr.M4
+[487.1min] ATENDIMENTO: Maria de Lourdes Bontempo (Espera:7.2m) -> Dr.M2
+[488.7min] ATENDIMENTO: Hadasa Anaya (Espera:5.3m) -> Dr.M3
+[489.8min] ATENDIMENTO: Eliane Silvia Severino (Espera:93.8m) -> Dr.M2
+[489.8 min]   DESISTENCIA: Kévan Pedronho (VERDE) após 90.0 min
+[493.8min] ATENDIMENTO: Lutero Lero (Espera:89.6m) -> Dr.M1
+[496.8 min]   DESISTENCIA: Luziana Petricia (VERDE) após 90.0 min
+[501.1 min]   DESISTENCIA: Caiús Barrios (VERDE) após 90.0 min
+[502.1min] ATENDIMENTO: Aurora da Conceição Bem (Espera:89.6m) -> Dr.M3
+[507.1min] ATENDIMENTO: Mateus Rafael Samões (Espera:85.8m) -> Dr.M4
+[508.1min] ATENDIMENTO: Tomás Rui Meliciano (Espera:83.6m) -> Dr.M2
+[511.5min] ATENDIMENTO: Alimatu Creado (Espera:87.0m) -> Dr.M4
+[517.6min] ATENDIMENTO: Mutu Taraio (Espera:87.2m) -> Dr.M2
+[518.2min] ATENDIMENTO: Kelly Ariana Durão (Espera:85.6m) -> Dr.M1
+[520.4min] ATENDIMENTO: Ahsan Beata (Espera:82.5m) -> Dr.M3
+[521.7min] ATENDIMENTO: Margarete Marme (Espera:82.7m) -> Dr.M1
+[525.4min] ATENDIMENTO: Alaim Molato (Espera:86.3m) -> Dr.M2
+[526.4min] ATENDIMENTO: Leonor Conceição Leme (Espera:79.4m) -> Dr.M4
+[533.5min] ATENDIMENTO: Duarte Xavier Façanha (Espera:84.1m) -> Dr.M3
+[539.2min] ATENDIMENTO: Cláudio João Silva (Espera:86.8m) -> Dr.M1
+[543.5 min]   DESISTENCIA: Kaiyang Miliciano (VERDE) após 90.0 min
+[543.9min] ATENDIMENTO: Stivan Marcalino (Espera:89.4m) -> Dr.M2
+[544.9 min]   DESISTENCIA: Meng Hou Jayden Braizinha (VERDE) após 90.0 min
+[544.9min] ATENDIMENTO: Bruna Micaela Balulo (Espera:84.6m) -> Dr.M4
+[552.7min] ATENDIMENTO: Thailine Lins (Espera:91.9m) -> Dr.M4
+[553.7 min]   DESISTENCIA: Paloma Alexandra Olimpio (VERDE) após 90.0 min
+[557.7min] ATENDIMENTO: Fenda Rubina (Espera:87.3m) -> Dr.M4
+[558.4min] ATENDIMENTO: Satam Cotanheira (Espera:85.1m) -> Dr.M1
+[559.1min] ATENDIMENTO: Norton Bicalho (Espera:83.8m) -> Dr.M2
+[559.2min] ATENDIMENTO: Ricardo Yordanov Lisete (Espera:83.3m) -> Dr.M3

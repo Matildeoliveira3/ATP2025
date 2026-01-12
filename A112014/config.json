@@ -1,0 +1,7 @@
+{
+    "taxa_chegada": 15,
+    "num_medicos": 4,
+    "tempo_medio": 20,
+    "distribuicao": "normal",
+    "tempo_simulacao": 600
+}
